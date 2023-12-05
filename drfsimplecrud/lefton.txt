@@ -1,2 +1,0 @@
-021223-12:39 lo@37:42 djangorestDeployFezt(youtube)
-             lo@43:13                              (ready for push to git)
